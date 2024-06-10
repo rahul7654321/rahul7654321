@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rahuleducation73@gmail.com**
 
-- - 📄 Know about me Portfolio  [WWW.rahulmDev.com](https://rahulmbecsedeveloperaws.on.drv.tw/www.rahulmDev.com/)
+- - 📄 Know about me Portfolio  [ww.rahulmDev.com](https://rahulmbecsedeveloperaws.on.drv.tw/www.rahulmDev.com/)
   
 
 
