@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAHUL M</h1>
-<h3 align="center">A passionate MERN and Cloud enginer .</h3>
+<h3 align="center">A passionate DevOps enginer .</h3>
 
 - 🔭 I’m currently pursuing my unudergradute in [sri krishna college of Technology](https://www.skct.edu.in/#/)
 
