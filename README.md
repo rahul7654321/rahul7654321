@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing my unudergradute in [sri krishna college of Technology](https://www.skct.edu.in/#/)
 
-- 🌱 I’m currently learning **React js , Express js , Node js**
+- 🌱 I’m currently Working as a DevOps Engineer [Responsive.io](https://www.responsive.io#/)
 
 - 💬 Ask me about **AWS Certified Cloud Practitioner**
 
